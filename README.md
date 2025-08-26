@@ -15,10 +15,8 @@ A user interface project for interacting with blockchain technologies.
 
 ## 🛠️ Technologies Used
 
-- HTML, CSS, JavaScript
-- Web3.js or ethers.js *(if applicable)*
-- Any specific styling frameworks (e.g., Bootstrap, Tailwind)
-
+- HTML
+- CSS
 
 ## 💡 Usage
 

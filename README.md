@@ -19,13 +19,6 @@ A user interface project for interacting with blockchain technologies.
 - Web3.js or ethers.js *(if applicable)*
 - Any specific styling frameworks (e.g., Bootstrap, Tailwind)
 
-## 🏁 Getting Started
-
-1. **Install dependencies:**  
-   *(Add instructions here if you use npm/yarn or other tools)*
-
-2. **Run the project:**  
-   Open `index.html` in your browser or use a local server.
 
 ## 💡 Usage
 

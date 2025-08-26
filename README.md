@@ -21,15 +21,10 @@ A user interface project for interacting with blockchain technologies.
 
 ## 🏁 Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Gouravdevrale/Blockchain_UI.git
-   ```
-
-2. **Install dependencies:**  
+1. **Install dependencies:**  
    *(Add instructions here if you use npm/yarn or other tools)*
 
-3. **Run the project:**  
+2. **Run the project:**  
    Open `index.html` in your browser or use a local server.
 
 ## 💡 Usage
